@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "project_tsk2_behav" "xil_defaultlib.project_tsk2" "xil_defaultlib.glbl" -log "elaborate.log" 

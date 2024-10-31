@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Test case 4 result: o_mac = 521407, o_valid = 1
+Test case 4 result: o_mac =      0, o_valid = 1
+$finish called at time : 290 ns : File "C:/Users/Asus/project_final_2/project_final_2.srcs/sim_1/new/tb.sv" Line 120
