@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Jan 21 18:51:13 2024
+# Process ID: 19292
+# Current directory: D:/project/Code/Task1_folder/final.runs/synth_1
+# Command line: vivado.exe -log finalgcd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source finalgcd.tcl
+# Log file: D:/project/Code/Task1_folder/final.runs/synth_1/finalgcd.vds
+# Journal file: D:/project/Code/Task1_folder/final.runs/synth_1\vivado.jou
+# Running On: LAPTOP-APINFB2R, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16542 MB
+#-----------------------------------------------------------
+source finalgcd.tcl -notrace
